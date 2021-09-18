@@ -9,7 +9,7 @@ public class StockController {
 
     @RequestMapping("/reduce")
     public String reduce(){
-        System.out.println("扣减成功");
-        return "扣减成功";
+        System.out.println("KK扣减成功");
+        return "KK扣减成功";
     }
 }
